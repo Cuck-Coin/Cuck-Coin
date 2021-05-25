@@ -6,5 +6,7 @@ To Do:
 
   Figure out how to make a cryptocurrency
   
+    Coin vs Token?
+  
   Design logo
   
