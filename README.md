@@ -6,7 +6,7 @@ To Do:
 
  1. Figure out how to make a cryptocurrency
   
-    Coin vs Token? - 
+    Coin vs Token?
     Coin would be creating your own block chain.  
     Token using an existing blockchain such as Ethereum or NEO.
     
